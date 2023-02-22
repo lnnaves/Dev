@@ -1,0 +1,10 @@
+h1 {
+   /* color: rgb(0, 150, 150); */
+   /* color: rgba(0, 150, 150, 1); */
+   color: black;
+   background-color: hsla(260, 5%, 80%, .7);
+}
+ 
+html {
+   background: black;
+}
